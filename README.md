@@ -1,2 +1,2 @@
-# cms
-CMS Test Application
+# CMS
+Customer Management System
